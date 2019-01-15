@@ -21,6 +21,8 @@
 ## Build Setup
 
 ``` bash
+#克隆代码到本地
+git clone https://github.com/jiahengaa/xc-vue
 # install dependencies
 cnpm install
 
