@@ -1,7 +1,7 @@
 <template>
 	<div class="y-nav">
     <div class="y_nav_h">
-			<img src="../assets/images/homepage_man.png" alt="">年轻哪能不放纵，约起来
+			<img src="../assets/images/homepage_man.png" alt="">睡你XX，嗨起来！！！
 		</div>
     <ul>
 			<li>
